@@ -1,0 +1,1 @@
+@start prusa-slicer.exe --datadir ".\data"
